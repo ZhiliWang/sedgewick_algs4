@@ -2,4 +2,4 @@
 
 "Success occurs when opportunity meets preparation."
 
-Read this entire book and finish all the exercises in the book? Challenge accepted. 
+Read this entire book and finish the exercise problems in 2 weeks? Challenge accepted. 

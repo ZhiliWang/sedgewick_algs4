@@ -3,12 +3,12 @@
 # Purpose
 I want to seriously refine my understaning in Algorithm and Data Structures, therefore I am reading chapters and finishing all  exercise problems from the classic _Algorithms_ by Dr. Robert Sedgewick (one of my favorite CS Theory scholars).
 
-I am absolutely open to constructive criticism and suggestions (the more the merrier), feel free to fire them at me in "Issues".
+I am absolutely open to constructive criticisms and suggestions (the more the merrier), feel free to drop them in "Issues".
 
 # Potential Troubleshooting with Compile & Run
 For those who can't simply compile and run with "javac <filename.java>" and "java filename", this should work on MacOS Terminal:
 
-First 'cd' all the way to "/User/.../src", then do the following with desired chapter(s) and section(s):
+First 'cd' all the way to "/User/.../src", then do the following with the desired chapter/section/exercise:
 ```
 $ javac chN/secN/exN.java
 $ java -cp ./ chN.secN.exN

@@ -5,9 +5,11 @@ I want to seriously refine my understaning in Algorithm and Data Structures, the
 
 # Potential Troubleshooting with Compile & Run
 For those who can't simply compile and run with "javac <filename.java>" and "java filename", this should work on MacOS Terminal:
+
 First 'cd' all the way to "/User/.../src", then do the following with desired chapter(s) and section(s):
 ```
 $ javac chN/secN/exN.java
 $ javac chN/secN/exN.java
 ```
+
 Keeping your Java application up-to-date can be helpful as well. 

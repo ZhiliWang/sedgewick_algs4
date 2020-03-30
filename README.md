@@ -2,6 +2,4 @@
 
 "Success occurs when opportunity meets preparation."
 
-2 courses starting in one and a half week require Java coding. Let's read this entire book and finish all the exercises?
-
-Challenge accepted. 
+Read this entire book and finish the exercise problems in 2 weeks? Challenge accepted. 

@@ -1,0 +1,4 @@
+a. 'Then' is not a keyword.
+b. Missing curly braces around if-then condition.
+c. This statement is correct. No curly braca needed for a single-line if-then statement.
+d. Missing semi-colons for the if-then statement.

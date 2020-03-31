@@ -15,3 +15,7 @@ $ java -cp ./ chN.secN.exN
 ```
 
 Keeping your Java application up-to-date might help, but I will figure out a better solution later. 
+
+# Credits
+All API and codes from "algs4" are originated from "https://algs4.cs.princeton.edu/code/"
+I also took them from "https://github.com/kevin-wayne/algs4", since Professor Kevin Wayne from Princeton has been consistently updating them.

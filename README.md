@@ -17,4 +17,4 @@ $ java -cp ./ chN.secN.exN
 Keeping your Java application up-to-date might help, but I will figure out a better solution later. 
 
 # Credits
-All API from "import edu.princeton.cs.algs4.*" are from "https://algs4.cs.princeton.edu/code/" and "https://github.com/kevin-wayne/algs4" (Sedgewick and Wayne).
+All API from ```import edu.princeton.cs.algs4.*``` are from "https://algs4.cs.princeton.edu/code/" and "https://github.com/kevin-wayne/algs4" (Sedgewick and Wayne).
